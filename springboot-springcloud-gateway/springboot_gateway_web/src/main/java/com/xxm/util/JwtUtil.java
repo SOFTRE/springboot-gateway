@@ -11,7 +11,7 @@ import java.util.Base64;
 import java.util.Date;
 
 /**
- * @Program: IntelliJ IDEA changgou
+ * @Program: IntelliJ IDEA
  * @Description: TODO
  * @Author: Mr Liu
  * @Creed: Talk is cheap,show me the code
@@ -26,7 +26,7 @@ public class JwtUtil {
     public static final Long JWT_TTL = 3600000L;// 60 * 60 *1000  一个小时
 
     //Jwt令牌信息
-    public static final String JWT_KEY = "itcast";
+    public static final String JWT_KEY = "name***";
 
     public static String createJWT(String id, String subject, Long ttlMillis) {
         //指定算法

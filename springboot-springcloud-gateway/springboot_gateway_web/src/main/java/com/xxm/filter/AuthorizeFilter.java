@@ -15,7 +15,7 @@ import org.springframework.web.server.ServerWebExchange;
 import reactor.core.publisher.Mono;
 
 /**
- * @Program: IntelliJ IDEA xxm
+ * @Program: IntelliJ IDEA
  * @Description: TODO
  * @Author: Mr Liu
  * @Creed: Talk is cheap,show me the code

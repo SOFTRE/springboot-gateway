@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-springcloud-gateway/springboot-springcloud-gateway.iml" filepath="$PROJECT_DIR$/springboot-springcloud-gateway/springboot-springcloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-springcloud-gateway/springboot_gateway_web/springboot_gateway_web.iml" filepath="$PROJECT_DIR$/springboot-springcloud-gateway/springboot_gateway_web/springboot_gateway_web.iml" />
+    </modules>
+  </component>
+</project>
